@@ -12,7 +12,6 @@ Este proyecto contiene un clasificador de cobertura terrestre (*Landcover Classi
 ## ⚙️ Requisitos
 - Python **3.8+**
 - Jupyter Notebook / JupyterLab
-- PyTorch / torchvision  
 - Otras librerías necesarias especificadas en el notebook
 
 ---
