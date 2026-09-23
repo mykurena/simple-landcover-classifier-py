@@ -1,6 +1,6 @@
-# Landcover Classifier (PyTorch / Python)
+# Landcover Classifier (Python)
 
-Este proyecto contiene un clasificador de cobertura terrestre (*Landcover Classification*) desarrollado en **Python** utilizando **PyTorch**.
+Este proyecto contiene un clasificador de cobertura terrestre (*Landcover Classification*) desarrollado en **Python**
 
 ---
 
